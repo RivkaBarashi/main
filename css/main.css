@@ -13,7 +13,7 @@ main{
 }
 .word2{
   direction: rtl;
-  color: aliceblue;
+  color: rgb(231, 236, 240);
  width: 100%;
     display: flex;
     flex-direction: column;
